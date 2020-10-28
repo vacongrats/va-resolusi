@@ -1,5 +1,6 @@
 rencana belajar
 - Ekstraksi tekstur Python
+  GLCM
 - Naive Bayes Classifier Python
 - UI/UX
 - Front End
