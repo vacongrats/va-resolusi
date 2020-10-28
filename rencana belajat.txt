@@ -1,0 +1,5 @@
+rencana belajar
+- Ekstraksi tekstur Python
+- Naive Bayes Classifier Python
+- UI/UX
+- Front End
